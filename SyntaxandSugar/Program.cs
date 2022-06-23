@@ -17,7 +17,6 @@ namespace SyntaxandSugar
             //{
             //    response = answer + " is greater than or equal to nine";
             //}
-
             var answer = 4;
             var response = (answer < 9) ? $"{answer} is less than nine" : $"{answer} is greater tha or equal to nine";
       
